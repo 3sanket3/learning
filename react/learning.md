@@ -1,4 +1,4 @@
-Fron advanced-react-patterns courses by Kent C. Dodds
+From advanced-react-patterns courses by Kent C. Dodds
 
 ## Compound Component
 - Good pattern to have parent child kind of relations
@@ -23,7 +23,7 @@ Fron advanced-react-patterns courses by Kent C. Dodds
 - We should laso take care of unncessary rerendering. So only update the internal state if necessary. Ask a que that if the rerender really necessary for the component? 
 - returning null will skip the re-render
 
-## Provider patter
+## Provider pattern
 - resolves the prop drilliung issue
 - Create context with the data we want it to contain (i.e providers default value)
 - wrap the element section under which we want to share the context using <SomeContext.Provider values={something}>
