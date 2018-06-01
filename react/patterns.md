@@ -35,4 +35,10 @@ From advanced-react-patterns courses by Kent C. Dodds
 - we call `this.setState(updater,callback)` , please make sure you haven't tried to create it by `this.stateState = ()=>`
 
 
+## Provider + Render Props + Compound 
+- Ronak Explained to me
+- Found really helpful while as it provides customization and we can expose the parent functions in the child and child can call it as webhooks
+- 
+
+
   
