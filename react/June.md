@@ -8,7 +8,9 @@ In the later March'18 (discussion started from 18th Match'18), we decided to tak
 
 Our many round of discussions with Sagar R., Sagar S. and Bhargav and our other dear once stated giving us the confidence as we were able to address many of their concerns. And where we were not able to, we just thought that anyway the new approach will give us our time back (freed from managing the team of juniors), we will surely do something to handle it.
 
-_From the outside world, it looks due to the failure, people may loose optimism. But in the journey as an entrepreneur, failure makes you more optimistic for the other path_ At least I felt that, may be due to _failures are actually gaining. It gives us a knowledge about the things that won't work to reach the goal_. And for none of the goal, a straight and clear path is already known initially. So better we find the non-working path as soon as possible.
+_From the outside world, it looks due to the failure, people may loose optimism. But in the journey as an entrepreneur, failure makes you more optimistic for the other path_ At least I felt that, may be due to _failures are actually gaining. It gives us a knowledge about the things that won't work to reach the goal_. Like Thomas A. Edison says
+
+> _I have not failed. I've just found 10,000 ways that won't work._
 
 #### Documentation
 
