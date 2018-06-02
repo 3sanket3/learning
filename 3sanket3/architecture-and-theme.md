@@ -13,7 +13,12 @@ Have two in mind
 
 #### Unexplored
 
-* How to use material design or any other woth Gatsby. How about to test it in two hours foolowing the standard doc
+* As Ronak said, there are manuy difficulties in setting up getsby in Windows. So I have to give it a definate time and chek will it work
+* Other option is ot setup linux as duel boot
+* windows have some recent release to I will have to update it
+* icon also dowload the Ubunt windows app
+
+- How to use material design or any other woth Gatsby. How about to test it in two hours foolowing the standard doc
 
 #### Status
 
