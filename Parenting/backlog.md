@@ -1,0 +1,2 @@
+- About the seminar attended
+- Day today reserach or interesting topics to read for the parents
