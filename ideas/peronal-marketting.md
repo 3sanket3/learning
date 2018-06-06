@@ -1,0 +1,2 @@
+- Create videos of project starter for React and Angular
+- can go to company or colleges and give them consultancy or training
