@@ -1,0 +1,6 @@
+- render props
+- keep analyzing from the other's perpective
+- default data
+- spread operator
+- iterations are really helpful
+- decide the responsibility of each part and keep checking that we are not mistaking anywhere
